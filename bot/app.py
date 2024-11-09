@@ -6,7 +6,6 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 from bot.key import API_TOKEN
 
-
 from bot.handlers.main_handler import router
 from bot.handlers.handler_notifications import notifications_router
 
